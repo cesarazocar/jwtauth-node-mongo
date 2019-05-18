@@ -1,7 +1,7 @@
 # jwtauth-node-mongo
 Tutorial Json Web Tokens con apuntes en comentarios
 
-
+npm i express body-parser mongoose jsonwebtoken morgan
 
 Server muestra usuarios localhost:3000/api/users 
 si se valida el token enviado por json, 
